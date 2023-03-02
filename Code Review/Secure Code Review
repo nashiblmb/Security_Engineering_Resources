@@ -1,0 +1,21 @@
+https://owasp.org/SecureCodingDojo/codereview101/
+https://medium.com/@paul_io/security-code-review-101-a3c593dc6854
+
+
+several websites that provide practical exercises for secure code review. Here are a few:
+
+1.	OWASP WebGoat: This is a deliberately insecure web application that can be used to practice identifying security vulnerabilities in code. 
+    It includes a number of challenges and exercises that focus on common vulnerabilities, such as SQL injection, cross-site scripting (XSS), and buffer overflow.
+
+2.	Hack This Site: This website provides a range of challenges that require the user to identify and exploit security vulnerabilities in code. 
+    It includes challenges at different skill levels, making it a great resource for both beginners and advanced users.
+
+3.	Google Gruyere: This is a web application that is designed to be intentionally vulnerable. 
+    It includes a number of challenges that focus on common security vulnerabilities, such as CSRF, XSS, and SQL injection. 
+    It also includes step-by-step instructions for completing each challenge.
+
+4.	Security Shepherd: This is a platform that offers a number of vulnerable web applications designed to help users practice identifying security vulnerabilities in code.
+    The platform includes a number of challenges, each of which is focused on a specific vulnerability.
+    
+5.	Damn Vulnerable Web Application (DVWA): This is a PHP/MySQL web application that is intentionally vulnerable. 
+    It includes a range of challenges and exercises that focus on common security vulnerabilities, such as SQL injection, cross-site scripting, and file inclusion.
