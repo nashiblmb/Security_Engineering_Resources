@@ -1,0 +1,17 @@
+Here are some technical questions that may be asked during an interview for an entry-level threat hunter:
+
+1.	What are the different phases of a cyber attack and how do you detect them?
+2.	What is the difference between a virus, worm, and Trojan horse?
+3.	What is a command and control (C&C) server and how is it used in cyber attacks?
+4.	What are some common techniques used by threat actors to evade detection?
+5.	What is malware analysis and how is it used in threat hunting?
+6.	How would you investigate a suspicious network traffic pattern?
+7.	What is an indicator of compromise (IOC) and how is it used in threat hunting?
+8.	What is a threat intelligence feed and how is it used in threat hunting?
+9.	What is network segmentation and how does it improve security?
+10.	What are some best practices for incident response?
+11.	What is the MITRE ATT&CK framework and how is it used in threat hunting?
+12.	What are some common network protocols used in cyber attacks?
+13.	How would you identify a vulnerability in a system or network?
+14.	What is a penetration test and how is it different from a vulnerability assessment?
+15.	How would you prioritize and remediate vulnerabilities in a system or network?
