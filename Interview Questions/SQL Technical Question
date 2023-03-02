@@ -1,0 +1,27 @@
+Here are some SQL technical questions that an entry-level security engineer or analyst might be expected to answer:
+
+1.	What is SQL?
+2.	What are the different types of SQL statements?
+3.	What is a database schema?
+4.	What is normalization?
+5.	What is denormalization?
+6.	What is a primary key?
+7.	What is a foreign key?
+8.	What is the difference between a join and a subquery?
+9.	What is an index in SQL?
+10.	What is a stored procedure?
+11.	What is a trigger?
+12.	What is the difference between an inner join and an outer join?
+13.	What is a view?
+14.	What is a cursor?
+15.	What is the difference between the LIKE and the IN operators?
+16.	What is a UNION operator?
+17.	What is a transaction?
+18.	What is ACID?
+19.	What is the difference between a clustered and a non-clustered index?
+20.	What is a constraint?
+21.	What is a deadlock?
+22.	What is the difference between DELETE and TRUNCATE?
+23.	What is a sequence?
+24.	What is a pivot table?
+25.	What is the difference between a scalar and an aggregate function?
