@@ -1,0 +1,68 @@
+For an entry-level security engineer or analyst, networking technical questions that you might encounter in an interview could include:
+1.	What is a network, and how does it function?
+2.	What is the difference between a LAN and a WAN?
+3.	What is the OSI model, and how is it used in networking?
+4.	What is TCP/IP, and how is it used in networking?
+5.	What is a subnet, and how do you calculate the subnet mask?
+6.	What is a gateway, and how is it used in networking?
+7.	What is DNS, and how does it function?
+8.	What is DHCP, and how does it function?
+9.	What is NAT, and how does it function?
+10.	What is a VLAN, and how does it function?
+11.	What is a routing table, and how does it function?
+12.	What is a switch, and how does it function?
+13.	What is a router, and how does it function?
+14.	What is a firewall, and how does it function in a network?
+15.	What is the difference between a stateless and a stateful firewall?
+16.	What is a proxy server, and how does it function in a network?
+17.	What is load balancing, and how does it function in a network?
+18.	What is a VPN, and how does it function in a network?
+19.	What is a DMZ, and how does it function in a network?
+20.	What is the difference between a hub and a switch?
+
+
+
+For an entry-level security engineer or analyst, technical questions that you might encounter in an interview could include:
+1.	What is a firewall, and how does it work?
+2.	What is encryption, and why is it important for security?
+3.	What is the difference between symmetric and asymmetric encryption?
+4.	What is a public key infrastructure (PKI), and how does it work?
+5.	What is a digital certificate, and how is it used in secure communication?
+6.	What is a vulnerability, and how do you identify and prioritize vulnerabilities?
+7.	What is a threat, and how do you assess the risk of a threat?
+8.	What is the difference between a vulnerability assessment and a penetration test?
+9.	What is a security incident, and how do you respond to it?
+10.	What is the difference between an intrusion detection system (IDS) and an intrusion prevention system (IPS)?
+11.	What is malware, and how do you identify and respond to it?
+12.	What is a denial-of-service (DoS) attack, and how do you mitigate it?
+13.	What is the difference between TCP and UDP, and how are they used in networking?
+14.	What is a network packet, and how can you analyze it for security purposes?
+15.	What is a hash function, and how is it used in security?
+16.	What is a digital signature, and how is it used in secure communication?
+17.	What is the difference between a black-box and white-box testing?
+18.	What is a buffer overflow, and how do you prevent it?
+19.	What is the difference between a vulnerability and an exploit?
+20.	What is the role of social engineering in cybersecurity, and how do you protect against it?
+
+
+For an entry-level security engineer or analyst, operating systems technical questions that you might encounter in an interview could include:
+1.	What is an operating system, and how does it function?
+2.	What is the difference between a kernel and a shell?
+3.	What is a process, and how does it function in an operating system?
+4.	What is a thread, and how does it function in an operating system?
+5.	What is a file system, and how does it function in an operating system?
+6.	What is a driver, and how does it function in an operating system?
+7.	What is virtual memory, and how is it used in an operating system?
+8.	What is a system call, and how is it used in an operating system?
+9.	What is a user account, and how does it function in an operating system?
+10.	What is a group, and how does it function in an operating system?
+11.	What is a permission, and how does it function in an operating system?
+12.	What is a service, and how does it function in an operating system?
+13.	What is a registry, and how does it function in an operating system?
+14.	What is a process monitor, and how does it function in an operating system?
+15.	What is a command-line interface, and how does it function in an operating system?
+16.	What is a graphical user interface, and how does it function in an operating system?
+17.	What is a patch, and how does it function in an operating system?
+18.	What is a vulnerability, and how does it function in an operating system?
+19.	What is a rootkit, and how does it function in an operating system?
+20.	What is a sandbox, and how does it function in an operating system?
